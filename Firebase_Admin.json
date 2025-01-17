@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stridge-erp",
+  "private_key_id": "32dde617faad69a7fd5b5884f5cf3a73a0805695",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9aZC9upwmTAJb\nudoNjURHj+6UlBcMOOr/1OuWumPsJ5RC+YojaRk+uSpVCuf+4ICBqOiG6u3wb5Z7\ndWD9ZNYMCMCzsGHoZbgeEb46aqaoXSScGzVKmoDZZgET8jRXIf4sqOL/cLThH1gP\nKZ/OqCaRBQg5l1j/AD9Lg5oE/87tGxDkQTvrFH+JALIpq+TxKEqT7JZ3oD6VerWz\nJs2K+XSgg+iNeg3vfw0U92eCBg2fXjLy0qJSzVUlvN5acJFXh00LLm83euaNavWn\ns/dSnq+zJdK+1jhnVIV0y6D/z9NmEjRWd38WrU4YSW8UGUyKb32SVz7/g3+GLpqK\nCVy/RQVfAgMBAAECggEAPIFnWiQtU1J+glyZGjEhOZbxyIaR4jagYv7aDvkViE+Q\nXeCmzu74wH+X1Ti5qUJ/6mtRdB/ByEdtE50IUYmPkqKNJBlY/UrZCMn0MWb2O9wd\nILzURjOaq1eZSozZSWgzcIK2mJChRzSjBZzvTq2KPFMWMId3R2YF0hKE9cndiQHK\nr6sdUL66mS6NB7TsKwhwA8CO50SsL6vEIx4Y5M+4AzA4dtRVwR83Ld+0NbkfrloY\n52VlJ+NNu5+j0XtTrDIRkySlIuG6to1PkT1LQdPZB/C1C9kX2W1acpLNFtM4c13L\nozy3q0mTOGf8zbGYUGMjTVmf9ELLP8KHKmOCtDf2+QKBgQDeRxv57usvk/qBgyrH\ngPL4VbIwgFVTR1t9fr/xjxpBnNXPDFznIWzFkRFf7pB62tvgk+uAC3kE9b0AXYsZ\n03XZFMPTvVPHj6hn/naP7kgXZKcYxVJJ0biWzCDb3CNF2UzLmT3FbnQ0wvOnpssE\nSNCUUTg3YWHDHXdOYOwOo1r7hQKBgQDaJgUGKm7NPMc2KYgMy82i/yKbL490EAPO\nVVFM9mX4RUg97pJzZcniTN9dN83LtYg2comz5v0txyMUTfsJJhvf03cWyxshSWdz\nbLL5IK16m0rH2/hTKxLOK0l5MZxMURsqlQnzRuUSaY7lG+jAGBmdLQ4wCKGgNClQ\nuQiZ9vO4kwKBgDZrOGk3WjMaypDcuSOA6XttF6QSN1GdPcP6vSl5vJblu97mCvS3\nVTcFbjiLYqoBXSWdcWG27VkOhMhLHpwjDk4obE0xpApOnI9hWEuirdm0VciVvrC9\n/LBGp6DMQ4J9UfTivqHQifjE5fxctIWHAjHdtKKyX8nyM9xnlEN9MPA1AoGBAIFL\nRXEJF1Dnc/8DEJLc/E1eQGmP/8s/brINWTlvVLKYhZ/HVd+1dbl97Gk4mO3i8w+q\nRTlub6KBQ6ZWLbKXdq/risrkqHjLI9iClXUYzBk+D01zb7QDdIrjlxGQuN12uM49\nNX+OBlkqXTonl4S7A/tnZ+BKTVlBcTdZ4+I1PvCnAoGBAIb7wogu2A6utrd9MtAn\nzyK8tWLzKW80rn300B+eeb0mZDXM0CRP7nxzDrH+osDCCTbUDyj0qkfRX+7M8X5r\ngFeMFyC0AQ4qs/hGrQMnp3hvj8z4cM1gMwMoUT+xvfgzsJy9dJu/3DYw2KKHBTn/\nRno/sU6fsDSdy9yvEsFRz2o0\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-c04fc@stridge-erp.iam.gserviceaccount.com",
+  "client_id": "115812468316613370735",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-c04fc%40stridge-erp.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
