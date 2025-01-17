@@ -1,4 +1,5 @@
 import streamlit as st
+import os
 from firebase_admin import credentials, firestore, initialize_app
 import smtplib
 from email.mime.text import MIMEText
