@@ -1,4 +1,0 @@
-firebase-admin
-streamlit
-streamlit-tags
-streamlit-modal
