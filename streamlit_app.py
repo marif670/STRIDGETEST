@@ -13,7 +13,7 @@ if not os.path.exists(firebase_credentials_path):
     raise FileNotFoundError(f"Firebase credentials file not found at {firebase_credentials_path}")
 
 cred = credentials.Certificate(firebase_credentials_path)
-initialize_app(cred)
+initialize_app(cred)  # Initialize Firebase app with the credentials
 db = firestore.client()
 
 # Gmail SMTP credentials
