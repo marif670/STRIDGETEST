@@ -1,20 +1,15 @@
 import streamlit as st
 import os
-from firebase_admin import credentials, firestore, initialize_app
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 
-# Use a relative path for Firebase credentials
-firebase_credentials_path = "Firebase_Admin.json"
+import firebase_setup  # Import Firebase setup to initialize the app only once
+from firebase_admin import firestore
 
-if not os.path.exists(firebase_credentials_path):
-    raise FileNotFoundError(f"Firebase credentials file not found at {firebase_credentials_path}")
-
-cred = credentials.Certificate(firebase_credentials_path)
-initialize_app(cred)  # Initialize Firebase app with the credentials
 db = firestore.client()
+
 
 # Gmail SMTP credentials
 SMTP_EMAIL = "arif670@gmail.com"
